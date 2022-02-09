@@ -1,4 +1,4 @@
 secret.py
 .DS_Store
-venv
-.idea
+venv/
+.idea/
